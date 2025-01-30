@@ -1,4 +1,4 @@
-# Skin Cancer Detection Using Ensemble Deep Learning  
+# Melanoma Skin Cancer Detection Using Ensemble Deep Learning Model 
 
 ## Overview  
 Skin cancer, particularly melanoma, is a life-threatening disease that requires early diagnosis for effective treatment. This project leverages deep learning techniques to develop an ensemble model for detecting melanoma from dermoscopy images. The model integrates **VGG19, ResNet50, and MobileNetV2** using a stacking ensemble approach, achieving high accuracy on the **ISIC 2020 dataset**.
